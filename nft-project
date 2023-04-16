@@ -1,0 +1,16 @@
+{
+  "name": "My first nft",
+  "description": "Introducing my first ever nft",
+  "Image": "https://www.esa.int/ESA_Multimedia/Images/2019/05/Festival_crowd",
+  "External_url": "https://api.jsonbin.io/v3/b/643a5a71ebd26539d0ab8fed",
+  "attributes": [
+    {
+      "trait_type": "Artefact",
+      "Value": "crow photo"
+    },
+    {
+      "trait_type": "Collection",
+      "Value": "Genisis"
+    }
+  ]
+}
